@@ -164,5 +164,6 @@ node_modules/
 .DS_Store
 
 # downloaded stuff for 08-building-search-applications
+additional-course-materials/exam/results/
 08-building-search-applications/scripts/transcripts_the_ai_show/
-additional-course-materials/exam/Студент_І_Б_var30.ipynb
+additional-course-materials/exam/grader/
