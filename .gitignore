@@ -167,3 +167,6 @@ node_modules/
 additional-course-materials/exam/results/
 08-building-search-applications/scripts/transcripts_the_ai_show/
 additional-course-materials/exam/grader/
+
+# local-only exam variants (do not commit)
+additional-course-materials/exam/Варіанти_іспит_мініпроєкт_GenAI_осінь_2025.md
